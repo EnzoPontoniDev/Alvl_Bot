@@ -2,7 +2,7 @@
 
 ## Prova de Autoria para GGMAX
 
-**Este documento serve como comprovação de que eu,ALVL_DEV , sou o único desenvolvedor e proprietário intelectual deste bot.**
+**Este documento serve como comprovação de que eu, ALVL_DEV , sou o único desenvolvedor e proprietário intelectual deste bot. E que desenvolvo os bots eu mesmo**
 
 Este `README.md` foi criado para detalhar o funcionamento do bot e garantir a transparência com os usuários e com a plataforma GGMAX.
 
